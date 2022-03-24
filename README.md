@@ -6,4 +6,4 @@ On the webiste(Below) you can upload files and get a json response. Run server.j
 2) Npm (package.json).
 3) Express.
 
-## [Werbsite](https://boilerplate-project-filemetadata.garvityadav07.repl.co)
+## [Website](https://boilerplate-project-filemetadata.garvityadav07.repl.co)
